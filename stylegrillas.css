@@ -1,0 +1,239 @@
+
+
+
+
+.fila{
+    color: white;
+    display: flex;
+}
+
+.col{
+    background-color: white;
+    flex: 1;
+    margin: 10px;
+    padding: 2px;
+}
+.col-2{
+    background-color: grey;
+    flex:2;
+    margin: 10px;
+
+}
+.col-3{
+    background-color: aqua;
+    flex:3;
+    margin: 10px;
+    padding: 20px;
+}
+
+
+#fondo{
+    width: 1080px;
+    height: 1210px;
+    background-color: #836B86;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+
+h2{
+    color: black;
+    margin-left: 10px;
+ 
+}
+
+h3{
+    font-weight: bold;  /*Subrayo con esto */
+
+    text-align: right;
+    color: black;
+    margin-right: 32px; /* con esto muevo el texto, 
+    mucho mas rapido verlo desde el inspeccionar elemento :) */
+}
+
+div.fila{
+    background-color: white;
+    margin: -8px;
+}
+
+.fila2{
+    color: black;
+    display: flex;
+}
+
+#imagen{
+    border: 5px solid grey;
+    width: 540px;
+}
+
+p{
+    background-color: grey;
+    color: white;
+    margin-left: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    height: 45px;
+    text-align: left;
+
+
+}
+ul{
+    color:black;
+    background-color: rgb(218, 214, 214);
+    list-style: none;
+    height: 1px;
+}
+
+li{
+    font-size: 18px;
+    padding-bottom: 24px;
+    background-color:rgb(218, 214, 214) ;
+    text-align: left;
+    padding: 5px 20px 1px 5px;
+    
+}
+
+#texto{
+    padding-left: 20px;
+    font-size: 25px;
+    height:40px;
+    color:white;
+    background-color: grey;
+    font-weight: bold;  /*Subrayo con esto */
+
+}
+
+div.col-2{
+    width: 10px;
+    background-color: rgb(218, 214, 214);
+
+}
+
+div.col{
+    background-color: white;
+}
+
+.holita{
+    padding-top: 30px;
+}
+
+
+div.col-3{
+    background-color:#836B86;
+    height:400px;
+
+}
+
+#titulo{
+    height: 20px;
+    background-color: grey;
+    padding-bottom: 20px;
+
+
+    padding: 8px;
+    padding-left: 10px;
+    font-size: 25px;
+    height:24px;
+    color:white;
+    font-weight: bold;  /*Subrayo con esto */
+}
+
+
+#lamode{
+    height: 170px;
+    width:  300px;
+}
+
+#espaciotexto{
+    height: 200px;
+    width:300px;
+    background-color: rgb(217, 209, 209);
+    text-align: justify;
+
+
+}
+
+#lamode{
+    width:300px;
+    font-size: 18px;
+    height:-30px;
+    color:black;
+    background-color: rgb(217, 209, 209);
+    text-align: justify;
+
+}
+
+#centro{
+    width: 300px;
+    height: 50px;
+    background-color:grey;
+}
+
+#logos{
+    height: 30px;
+    width: 30px;
+    padding: 15px 5px 5px 18px;
+    background-color: rgb(217, 209, 209);
+    display: inline;
+}
+
+#divlogos{
+    background-color:rgb(217, 209, 209) ;
+}
+
+#button{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+#buttonid{
+    background-color: #005b00;
+    color:white;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 10px; 
+}
+
+
+footer {
+    display: flex;
+    align-items: center;
+    height: 80px;
+    width: 100%;
+    background-color: white;
+  }
+  
+  .footer-bar {
+    display: block;
+    width: 100%;
+    padding-top: 20px;
+    height: 100%;
+    color: black;
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 18px;
+  }
+
+ .negrita{
+    color:black;
+    background-color: white;
+ } 
+
+.logosmini{
+    height: 15px;
+    width: 15px;
+}
+  
+div.footer-bar{
+   padding-top: 40px;
+   
+}
+ 
+
+ 
+  
+
+
